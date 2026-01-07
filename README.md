@@ -31,7 +31,8 @@ Chrome PDF 뷰어와 비슷한 문서 이미지 뷰어를 구현해보는 과제
 
 \*전반적인 UX경험을 Chrome에서 PDF문서를 보는 경험과 비슷하게 구현해 주시면 됩니다.
 
-<video isUpload="true" name="null" src="https://commitnow-bucket.s3.ap-northeast-2.amazonaws.com/temp/ef81eb14-a069-4312-90fd-187eb7835e30/assignment/2f7e43e1-2c71-4ca4-afa4-65dba2d65e4d-1767763961920.mov" />
+<!-- <video isUpload="true" name="null" src="https://commitnow-bucket.s3.ap-northeast-2.amazonaws.com/temp/ef81eb14-a069-4312-90fd-187eb7835e30/assignment/2f7e43e1-2c71-4ca4-afa4-65dba2d65e4d-1767763961920.mov" /> -->
+[Download the video](https://commitnow-bucket.s3.ap-northeast-2.amazonaws.com/temp/ef81eb14-a069-4312-90fd-187eb7835e30/assignment/2f7e43e1-2c71-4ca4-afa4-65dba2d65e4d-1767763961920.mov)
 
 ​
 
